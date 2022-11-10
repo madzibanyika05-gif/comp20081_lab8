@@ -1,0 +1,23 @@
+{
+
+	"id":123,
+
+	"name":"John Doe",
+
+	"permanent":true,
+
+	"address":{
+
+			"street":"Clifton Lane",
+
+			"city":"Nottingham",
+
+			"zipcode":"NG11 8NS"
+
+		},
+
+	"phoneNumbers":[9988664422, 1234567890],
+
+	"role":"Developer"
+
+}

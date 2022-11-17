@@ -19,7 +19,7 @@ import javax.json.JsonValue;
  * @author ntu-user
  */
 public class Ex3 {
-    public static final String JSON_FILE="employee.txt";
+    public static final String JSON_FILE="employee.json";
 	
 	public static void main(String[] args) throws IOException {
 		InputStream fis = new FileInputStream(JSON_FILE);
